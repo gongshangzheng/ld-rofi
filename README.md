@@ -33,9 +33,10 @@ Run the script using the following command:
  ./ld-rofi.sh
  ```
 
+
 ## Customization
 
-Edit the ld-rofi.sh file to add or modify the commands you want to access through Rofi. Each command should be added to the list within the script.
+You can also add bookmarks from other sources to the script. For example, I use [qutebrowser](https://qutebrowser.org/), so I've also wrote the second script(`list-all-bookmarks.sh`) in the repository to show bookmarks from qutebrowser.
 
 ## Contributing
 
